@@ -1,5 +1,5 @@
 # printing the logo
-from art import logo
+from caesar_art import logo
 
 print(logo)
 
